@@ -1,0 +1,8 @@
+# AES en modeCBC : bloc plaintext, bloc AES, 
+#     P -> entete pdf
+#     C->pdf chiffré
+#     IV -> en clair 
+# => Chercher le meme bloc chiffré
+# !utiliser linux pour generer la liste des clefs possibles
+
+
